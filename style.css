@@ -1,0 +1,72 @@
+h1 {
+    text-align: center;
+    color: brown;
+    background-color: rgb(194, 246, 151);
+    font-family: Helvetica;
+    border: 10px solid #85E7E1;
+    padding: 30px;
+    margin: 50px;
+}
+
+img {
+    width: 250px;
+}
+
+body {
+    font-size: 20px;
+}
+
+div {
+    background-color: teal;
+    text-align: center;
+}
+
+h2, h3 {
+    color: white;
+}
+
+ul {
+    color: purple;
+    background-color: rgb(150, 150, 150);
+    text-decoration: underline;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin-left: 50px;
+}
+
+p {
+    color: orange;
+}
+
+div p {
+    font-size: 200%;
+    font-family: Courier New;
+    font-weight: bold;
+    text-decoration: overline underline;
+}
+
+#water {
+    color: blue;
+}
+
+#electric {
+    color: yellow;
+}
+
+#fire {
+    color: red;
+}
+
+.special {
+    background-color: black;
+    color: lightblue;
+}
+
+.big_font {
+    font-size: 50px;
+}
+
+#yellow_font {
+    color: yellow;
+}
